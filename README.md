@@ -1,2 +1,2 @@
 # curso-dio
-Repositório para armazenar todos os projetos/atividades feitas durante qualquer curso feito no site da DIO.
+Repositório para armazenar todos os projetos/atividades feitas durante qualquer curso realizado no site da DIO.
